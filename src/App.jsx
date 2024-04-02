@@ -1,5 +1,5 @@
 import "./App.css";
-import { useCount } from "./count";
+import { useCount } from "./hooks/count";
 import Header from "./header";
 
 function App() {
